@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+//Disallow:
+Host: https://bud-center.tk
+Sitemap: https://bud-center.tk/sitemap.xml
